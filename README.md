@@ -1,5 +1,8 @@
 # fundamentals
+
 Rust
+
+> Some fundamental syntax of the Rust language.
 
 1. Install Rust [Here](https://www.rust-lang.org/tools/install).
 
